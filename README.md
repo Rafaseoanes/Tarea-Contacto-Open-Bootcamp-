@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### Components Names
-"contacto_mostrar"
-"contacto_Imp"
+"contacto_mostrar".
+"contacto_Imp".
 
 ### Rafael Seoanes
